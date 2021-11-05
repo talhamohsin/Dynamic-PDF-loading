@@ -12,8 +12,8 @@
 
 ### Docker Commands
 - Docker and docker-compose files have been added.
-- The requirements for this project are stored inside "requirements.txt" file and can be installed using the command: **pip install -r requirements.txt**.
+- The requirements for this project are stored inside "requirements.txt" file and can be installed using the command: **'pip install -r requirements.txt'**.
 - Once the docker container is started, the webpage can be viewed on localhost:5000.
-- To build the docker deployment, execute the command **docker-compose build**.
-- To start the docker container use the command **docker-compose up**.
-- To stop the docker container use the command **docker-compose stop**.
+- To build the docker deployment, execute the command **'docker-compose build'**.
+- To start the docker container use the command **'docker-compose up'**.
+- To stop the docker container use the command **'docker-compose stop'**.
