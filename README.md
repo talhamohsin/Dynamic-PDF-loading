@@ -3,8 +3,8 @@
 
 ### PDF Visualization
 - To run the project in the development environment, please execute the following commands into the terminal in the respective folder:
-**export FLASK_APP=app.py**
-**export FLASK_ENV=development**
+**export FLASK_APP=app.py** <br />
+**export FLASK_ENV=development** <br />
 **flask run**
 - This will start the server and the application runs by default on localhost:5000.
 - The above commands should not be executed if the application is to run by starting the docker container since the commands have already been put inside the Dockerfile.
