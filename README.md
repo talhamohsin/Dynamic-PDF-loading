@@ -2,7 +2,7 @@
 
 
 ### PDF Visualization
-- To run the project in the development environment, please execute the following commands into the terminal in the respective folder:
+- To run the project in the development environment, please execute the following commands into the terminal in the respective folder: <br />
 **- export FLASK_APP=app.py** <br />
 **- export FLASK_ENV=development** <br />
 **- flask run**
