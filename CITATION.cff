@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Talha"
+  given-names: "Muhammad"
+title: "Dynamic-PDF-loading"
+version: 1.0.0
+date-released: 2022-11-05
+url: "https://github.com/talhamohsin/Dynamic-PDF-loading"
